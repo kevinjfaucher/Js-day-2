@@ -40,3 +40,4 @@ number += 2; // number is now 8
 number *= 3; // number is now 24
 number--; // number is now 23
 console.log("Chained Operations (number += 2, number *= 3, number--): " + " " + number); // Output: 23
+// 

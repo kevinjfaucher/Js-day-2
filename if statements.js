@@ -43,3 +43,4 @@ if (temperature >= 80) {
     console.log("It's cold outside, wear a coat."); // This won't run because the previous condition is true
 }
 
+// 

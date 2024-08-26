@@ -21,3 +21,4 @@ for (let value = 3; value >= 1; value--) {
 for (let countdown = 10; countdown >= 1; countdown--) {
     console.log("Countdown: " + countdown);
 }
+// 
